@@ -1,0 +1,5 @@
+c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\bin\Debug\Client.exe
+c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\bin\Debug\Client.pdb
+c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\obj\x86\Debug\Client.exe
+c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\obj\x86\Debug\Client.pdb
