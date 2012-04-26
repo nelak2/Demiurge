@@ -1,1 +1,8 @@
 c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\Demiurge\Server\bin\Debug\Server.exe
+D:\projects\Demiurge\Server\bin\Debug\Server.pdb
+D:\projects\Demiurge\Server\bin\Debug\Lidgren.Network.dll
+D:\projects\Demiurge\Server\bin\Debug\Lidgren.Network.pdb
+D:\projects\Demiurge\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\Demiurge\Server\obj\x86\Debug\Server.exe
+D:\projects\Demiurge\Server\obj\x86\Debug\Server.pdb

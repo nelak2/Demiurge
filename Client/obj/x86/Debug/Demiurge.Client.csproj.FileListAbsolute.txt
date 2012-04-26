@@ -3,3 +3,20 @@ c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\bin
 c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\obj\x86\Debug\Client.exe
 c:\users\jimbo\documents\visual studio 2010\Projects\Project Demiurge\Client\obj\x86\Debug\Client.pdb
+D:\projects\Demiurge\Client\bin\Debug\Client.exe
+D:\projects\Demiurge\Client\bin\Debug\Client.pdb
+D:\projects\Demiurge\Client\bin\Debug\Lidgren.Network.dll
+D:\projects\Demiurge\Client\bin\Debug\Lidgren.Network.pdb
+D:\projects\Demiurge\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projects\Demiurge\Client\obj\x86\Debug\Client.exe
+D:\projects\Demiurge\Client\obj\x86\Debug\Client.pdb
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.D3DCompiler.dll
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.Diagnostics.dll
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.Direct3D11.dll
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.dll
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.DXGI.dll
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.xml
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.D3DCompiler.xml
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.Diagnostics.xml
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.Direct3D11.xml
+D:\Projects\Demiurge\Client\bin\Debug\SharpDX.DXGI.xml

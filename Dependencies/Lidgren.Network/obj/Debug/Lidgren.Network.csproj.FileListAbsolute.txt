@@ -3,3 +3,8 @@ C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\Lidgren-network-gen3\Lidgre
 C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\Lidgren-network-gen3\Lidgren.Network\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\Lidgren-network-gen3\Lidgren.Network\obj\Debug\Lidgren.Network.dll
 C:\Users\Jimbo\Documents\Visual Studio 2010\Projects\Lidgren-network-gen3\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
+D:\Projects\Demiurge\Dependencies\Lidgren.Network\bin\Debug\Lidgren.Network.dll
+D:\Projects\Demiurge\Dependencies\Lidgren.Network\bin\Debug\Lidgren.Network.pdb
+D:\Projects\Demiurge\Dependencies\Lidgren.Network\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Demiurge\Dependencies\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+D:\Projects\Demiurge\Dependencies\Lidgren.Network\obj\Debug\Lidgren.Network.pdb

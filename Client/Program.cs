@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using SharpDX.Windows;
 
 namespace Client
 {
@@ -9,6 +10,9 @@ namespace Client
     {
         static void Main(string[] args)
         {
+            var form = new RenderForm("Test");
+
+            
         }
     }
 }
