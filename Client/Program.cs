@@ -12,7 +12,11 @@ namespace Client
         {
             var form = new RenderForm("Test");
 
-            
+            RenderLoop.Run(form, () =>
+                {
+                    
+
+                });
         }
     }
 }
